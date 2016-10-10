@@ -8,7 +8,7 @@ This plugin is a single Trait to append to your Eloquent models in OctoberCMS to
 
 ### Usage
 
-Implement the LastEdit *[Trait](https://secure.php.net/manual/en/language.oop5.traits.php)* in your model to be tracked.
+Implement the [LastEdit](https://github.com/arzola/tracelog/blob/master/icodemx/tracelog/classes/LastEdited.php) *[Trait](https://secure.php.net/manual/en/language.oop5.traits.php)* in your model to be tracked.
 
     use Icodemx\Tracelog\Classes\LastEdit;
 
