@@ -1,0 +1,16 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    userfallback:
+      label: icodemx.tracelog::lang.show.userfallback
+      searchable: true
+    traceable_type:
+      label: icodemx.tracelog::lang.show.traceable_type
+    traceable_id:
+      label:  icodemx.tracelog::lang.show.traceable_id
+    msg:
+      label: icodemx.tracelog::lang.show.msg
+    reference:
+      label: icodemx.tracelog::lang.show.reference
